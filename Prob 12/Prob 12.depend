@@ -1,0 +1,233 @@
+# depslib dependency file v1.0
+1527448656 source:c:\users\catal\desktop\tema prob 12\prob 12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string.h>
+	"isprim.h"
+	"primrandom.h"
+	"notprimrandom.h"
+	"random.h"
+	"randompoz.h"
+	"litererandom.h"
+	"verif_prim.h"
+
+1527435267 c:\users\catal\desktop\tema prob 12\prob 12\isprim.h
+
+1527435345 source:c:\users\catal\desktop\tema prob 12\prob 12\isprim.c
+	"isprim.h"
+
+1527435859 c:\users\catal\desktop\tema prob 12\prob 12\primrandom.h
+
+1527435924 source:c:\users\catal\desktop\tema prob 12\prob 12\primrandom.c
+	"primrandom.h"
+
+1527436073 c:\users\catal\desktop\tema prob 12\prob 12\notprimrandom.h
+
+1527436107 source:c:\users\catal\desktop\tema prob 12\prob 12\notprimrandom.c
+	"notprimrandom.h"
+
+1527436282 c:\users\catal\desktop\tema prob 12\prob 12\random.h
+
+1527436325 source:c:\users\catal\desktop\tema prob 12\prob 12\random.c
+	"random.h"
+
+1527436473 c:\users\catal\desktop\tema prob 12\prob 12\randompoz.h
+
+1527436533 source:c:\users\catal\desktop\tema prob 12\prob 12\randompoz.c
+	"randompoz.h"
+
+1527437066 c:\users\catal\desktop\tema prob 12\prob 12\litererandom.h
+
+1527437145 source:c:\users\catal\desktop\tema prob 12\prob 12\litererandom.c
+	"litererandom.h"
+
+1527437374 c:\users\catal\desktop\tema prob 12\prob 12\verif_prim.h
+
+1527437444 source:c:\users\catal\desktop\tema prob 12\prob 12\verif_prim.c
+	"verif_prim.h"
+
+1527435345 source:c:\users\catal\desktop\tema decriptare\tema prob 12\prob 12\isprim.c
+	"isprim.h"
+
+1527435267 c:\users\catal\desktop\tema decriptare\tema prob 12\prob 12\isprim.h
+
+1527437145 source:c:\users\catal\desktop\tema decriptare\tema prob 12\prob 12\litererandom.c
+	"litererandom.h"
+
+1527437066 c:\users\catal\desktop\tema decriptare\tema prob 12\prob 12\litererandom.h
+
+1527503539 source:c:\users\catal\desktop\tema decriptare\tema prob 12\prob 12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string.h>
+	"isprim.h"
+	"primrandom.h"
+	"notprimrandom.h"
+	"random.h"
+	"randompoz.h"
+	"litererandom.h"
+	"verif_prim.h"
+
+1527435859 c:\users\catal\desktop\tema decriptare\tema prob 12\prob 12\primrandom.h
+
+1527436073 c:\users\catal\desktop\tema decriptare\tema prob 12\prob 12\notprimrandom.h
+
+1527436282 c:\users\catal\desktop\tema decriptare\tema prob 12\prob 12\random.h
+
+1527436473 c:\users\catal\desktop\tema decriptare\tema prob 12\prob 12\randompoz.h
+
+1527437374 c:\users\catal\desktop\tema decriptare\tema prob 12\prob 12\verif_prim.h
+
+1527436107 source:c:\users\catal\desktop\tema decriptare\tema prob 12\prob 12\notprimrandom.c
+	"notprimrandom.h"
+
+1527435924 source:c:\users\catal\desktop\tema decriptare\tema prob 12\prob 12\primrandom.c
+	"primrandom.h"
+
+1527436325 source:c:\users\catal\desktop\tema decriptare\tema prob 12\prob 12\random.c
+	"random.h"
+
+1527436533 source:c:\users\catal\desktop\tema decriptare\tema prob 12\prob 12\randompoz.c
+	"randompoz.h"
+
+1527437444 source:c:\users\catal\desktop\tema decriptare\tema prob 12\prob 12\verif_prim.c
+	"verif_prim.h"
+
+1527603945 source:c:\users\catal\onedrive\desktop\tema prob 12\prob 12\isprim.c
+	"isprim.h"
+
+1527435267 c:\users\catal\onedrive\desktop\tema prob 12\prob 12\isprim.h
+
+1527604281 source:c:\users\catal\onedrive\desktop\tema prob 12\prob 12\litererandom.c
+	"litererandom.h"
+
+1527437066 c:\users\catal\onedrive\desktop\tema prob 12\prob 12\litererandom.h
+
+1527542311 source:c:\users\catal\onedrive\desktop\tema prob 12\prob 12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string.h>
+	"isprim.h"
+	"primrandom.h"
+	"notprimrandom.h"
+	"random.h"
+	"randompoz.h"
+	"litererandom.h"
+	"verif_prim.h"
+
+1527435859 c:\users\catal\onedrive\desktop\tema prob 12\prob 12\primrandom.h
+
+1527436073 c:\users\catal\onedrive\desktop\tema prob 12\prob 12\notprimrandom.h
+
+1527436282 c:\users\catal\onedrive\desktop\tema prob 12\prob 12\random.h
+
+1527436473 c:\users\catal\onedrive\desktop\tema prob 12\prob 12\randompoz.h
+
+1527437374 c:\users\catal\onedrive\desktop\tema prob 12\prob 12\verif_prim.h
+
+1527604289 source:c:\users\catal\onedrive\desktop\tema prob 12\prob 12\notprimrandom.c
+	"notprimrandom.h"
+
+1527435924 source:c:\users\catal\onedrive\desktop\tema prob 12\prob 12\primrandom.c
+	"primrandom.h"
+
+1527436325 source:c:\users\catal\onedrive\desktop\tema prob 12\prob 12\random.c
+	"random.h"
+
+1527436533 source:c:\users\catal\onedrive\desktop\tema prob 12\prob 12\randompoz.c
+	"randompoz.h"
+
+1527437444 source:c:\users\catal\onedrive\desktop\tema prob 12\prob 12\verif_prim.c
+	"verif_prim.h"
+
+1527606167 source:c:\users\catal\onedrive\desktop\doxy\tema prob 12\prob 12\isprim.c
+	"isprim.h"
+
+1527606134 c:\users\catal\onedrive\desktop\doxy\tema prob 12\prob 12\isprim.h
+
+1527606174 source:c:\users\catal\onedrive\desktop\doxy\tema prob 12\prob 12\litererandom.c
+	"litererandom.h"
+
+1527437066 c:\users\catal\onedrive\desktop\doxy\tema prob 12\prob 12\litererandom.h
+
+1527606178 source:c:\users\catal\onedrive\desktop\doxy\tema prob 12\prob 12\notprimrandom.c
+	"notprimrandom.h"
+	"isprim.h"
+
+1527436073 c:\users\catal\onedrive\desktop\doxy\tema prob 12\prob 12\notprimrandom.h
+
+1527606181 source:c:\users\catal\onedrive\desktop\doxy\tema prob 12\prob 12\primrandom.c
+	"primrandom.h"
+	"isprim.h"
+
+1527435859 c:\users\catal\onedrive\desktop\doxy\tema prob 12\prob 12\primrandom.h
+
+1527606184 source:c:\users\catal\onedrive\desktop\doxy\tema prob 12\prob 12\random.c
+	"random.h"
+
+1527436282 c:\users\catal\onedrive\desktop\doxy\tema prob 12\prob 12\random.h
+
+1527606133 source:c:\users\catal\onedrive\desktop\doxy\tema prob 12\prob 12\randompoz.c
+	"randompoz.h"
+
+1527436473 c:\users\catal\onedrive\desktop\doxy\tema prob 12\prob 12\randompoz.h
+
+1527606193 source:c:\users\catal\onedrive\desktop\doxy\tema prob 12\prob 12\verif_prim.c
+	"verif_prim.h"
+
+1527437374 c:\users\catal\onedrive\desktop\doxy\tema prob 12\prob 12\verif_prim.h
+
+1527878727 source:c:\users\catal\desktop\doxy\tema prob 12\prob 12\isprim.c
+	"isprim.h"
+
+1527875249 c:\users\catal\desktop\doxy\tema prob 12\prob 12\isprim.h
+
+1527876092 source:c:\users\catal\desktop\doxy\tema prob 12\prob 12\litererandom.c
+	"litererandom.h"
+
+1527875274 c:\users\catal\desktop\doxy\tema prob 12\prob 12\litererandom.h
+
+1527876054 source:c:\users\catal\desktop\doxy\tema prob 12\prob 12\notprimrandom.c
+	"notprimrandom.h"
+	"isprim.h"
+
+1527875287 c:\users\catal\desktop\doxy\tema prob 12\prob 12\notprimrandom.h
+
+1527876085 source:c:\users\catal\desktop\doxy\tema prob 12\prob 12\primrandom.c
+	"primrandom.h"
+	"isprim.h"
+
+1527875297 c:\users\catal\desktop\doxy\tema prob 12\prob 12\primrandom.h
+
+1527876081 source:c:\users\catal\desktop\doxy\tema prob 12\prob 12\random.c
+	"random.h"
+
+1527875310 c:\users\catal\desktop\doxy\tema prob 12\prob 12\random.h
+
+1527876077 source:c:\users\catal\desktop\doxy\tema prob 12\prob 12\randompoz.c
+	"randompoz.h"
+
+1527875322 c:\users\catal\desktop\doxy\tema prob 12\prob 12\randompoz.h
+
+1527876065 source:c:\users\catal\desktop\doxy\tema prob 12\prob 12\verif_prim.c
+	"verif_prim.h"
+
+1527875337 c:\users\catal\desktop\doxy\tema prob 12\prob 12\verif_prim.h
+
+1527930958 source:c:\users\catal\desktop\doxy\tema prob 12\prob 12\main.c
+	<stdio.h>
+	<time.h>
+	"primrandom.h"
+	"notprimrandom.h"
+	"isprim.h"
+	"random.h"
+	"randompoz.h"
+	"litererandom.h"
+	"verif_prim.h"
+

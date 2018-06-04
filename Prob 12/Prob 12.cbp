@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Prob 12" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Prob 12" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Prob 12" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="isprim.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="isprim.h" />
+		<Unit filename="litererandom.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="litererandom.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="notprimrandom.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="notprimrandom.h" />
+		<Unit filename="primrandom.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="primrandom.h" />
+		<Unit filename="random.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="random.h" />
+		<Unit filename="randompoz.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="randompoz.h" />
+		<Unit filename="verif_prim.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="verif_prim.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
