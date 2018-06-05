@@ -5,9 +5,11 @@
 #include "primrandom.h"
 #include "isprim.h"
 
+///\fn void primrandom()
 int primrandom(){
 
     int p;
+    ///\brief int p  - variable where a random prim number will be stored
 
     p=rand()%10;
     if(p>1){

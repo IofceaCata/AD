@@ -4,6 +4,7 @@
 
 #include "randompoz.h"
 
+///\fn void randompoz()
 int randompoz(int strlena){
 
     return rand()%strlena;

@@ -220,9 +220,106 @@
 
 1527875337 c:\users\catal\desktop\doxy\tema prob 12\prob 12\verif_prim.h
 
-1527930958 source:c:\users\catal\desktop\doxy\tema prob 12\prob 12\main.c
+1527875625 source:c:\users\catal\desktop\doxy\tema prob 12\prob 12\main.c
 	<stdio.h>
 	<time.h>
+	"isprim.h"
+	"primrandom.h"
+	"notprimrandom.h"
+	"random.h"
+	"randompoz.h"
+	"litererandom.h"
+	"verif_prim.h"
+
+1527950707 source:c:\users\catal\desktop\doxy cod !\prob 12\notprimrandom.c
+	"notprimrandom.h"
+	"isprim.h"
+
+1527875287 c:\users\catal\desktop\doxy cod !\prob 12\notprimrandom.h
+
+1527875249 c:\users\catal\desktop\doxy cod !\prob 12\isprim.h
+
+1527950734 source:c:\users\catal\desktop\doxy cod !\prob 12\primrandom.c
+	"primrandom.h"
+	"isprim.h"
+
+1527875297 c:\users\catal\desktop\doxy cod !\prob 12\primrandom.h
+
+1527950750 source:c:\users\catal\desktop\doxy cod !\prob 12\random.c
+	"random.h"
+
+1527875310 c:\users\catal\desktop\doxy cod !\prob 12\random.h
+
+1527950772 source:c:\users\catal\desktop\doxy cod !\prob 12\randompoz.c
+	"randompoz.h"
+
+1527875322 c:\users\catal\desktop\doxy cod !\prob 12\randompoz.h
+
+1527950342 source:c:\users\catal\desktop\doxy cod !\prob 12\isprim.c
+	"isprim.h"
+
+1527961664 source:c:\users\catal\desktop\doxy cod !\prob 12\main.c
+	<stdio.h>
+	<time.h>
+	"primrandom.h"
+	"notprimrandom.h"
+	"isprim.h"
+	"random.h"
+	"randompoz.h"
+	"litererandom.h"
+	"verif_prim.h"
+
+1527875274 c:\users\catal\desktop\doxy cod !\prob 12\litererandom.h
+
+1527875337 c:\users\catal\desktop\doxy cod !\prob 12\verif_prim.h
+
+1527950907 source:c:\users\catal\desktop\doxy cod !\prob 12\verif_prim.c
+	"verif_prim.h"
+
+1527950465 source:c:\users\catal\desktop\doxy cod !\prob 12\litererandom.c
+	"litererandom.h"
+
+1527950342 source:c:\users\catal\desktop\programming techniques assignment v2\code\isprim.c
+	"isprim.h"
+
+1527875249 c:\users\catal\desktop\programming techniques assignment v2\code\isprim.h
+
+1527950465 source:c:\users\catal\desktop\programming techniques assignment v2\code\litererandom.c
+	"litererandom.h"
+
+1527875274 c:\users\catal\desktop\programming techniques assignment v2\code\litererandom.h
+
+1527950707 source:c:\users\catal\desktop\programming techniques assignment v2\code\notprimrandom.c
+	"notprimrandom.h"
+	"isprim.h"
+
+1527875287 c:\users\catal\desktop\programming techniques assignment v2\code\notprimrandom.h
+
+1527950734 source:c:\users\catal\desktop\programming techniques assignment v2\code\primrandom.c
+	"primrandom.h"
+	"isprim.h"
+
+1527875297 c:\users\catal\desktop\programming techniques assignment v2\code\primrandom.h
+
+1528212316 source:c:\users\catal\desktop\programming techniques assignment v2\code\random.c
+	"random.h"
+
+1528212306 c:\users\catal\desktop\programming techniques assignment v2\code\random.h
+
+1527950772 source:c:\users\catal\desktop\programming techniques assignment v2\code\randompoz.c
+	"randompoz.h"
+
+1527875322 c:\users\catal\desktop\programming techniques assignment v2\code\randompoz.h
+
+1527950907 source:c:\users\catal\desktop\programming techniques assignment v2\code\verif_prim.c
+	"verif_prim.h"
+
+1527875337 c:\users\catal\desktop\programming techniques assignment v2\code\verif_prim.h
+
+1528213109 source:c:\users\catal\desktop\programming techniques assignment v2\code\main.c
+	<stdio.h>
+	<time.h>
+	<string.h>
 	"primrandom.h"
 	"notprimrandom.h"
 	"isprim.h"

@@ -4,9 +4,14 @@
 
 #include "verif_prim.h"
 
+///\fn void verif_prim()
 int verif_prim( int nr ){
-    int i; ///\var i iterator
-    int h=0; ///\var h variable who store the number of divisors
+    ///\param nr
+    int i;
+    ///\brief int i  - Iterator
+    ///
+    int h=0;
+    ///\brief int h  - variable who store the number of divisors
     for(i=2;i*i<=nr;i++)
         if(nr%i==0)
             h++;

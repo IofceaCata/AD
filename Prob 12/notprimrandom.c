@@ -5,9 +5,11 @@
 #include "notprimrandom.h"
 #include "isprim.h"
 
+///\fn void notprimrandom()
 int notprimrandom(){
 
     int p;
+    ///\brief int p  - variable where a random nonprim number will be stored
 
     p=rand()%10;
     if(p>1){

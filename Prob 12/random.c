@@ -4,7 +4,8 @@
 
 #include "random.h"
 
-int random(){
+///\fn void random()
+int random(int power){
 
-    return rand()%10;
+    return rand()%power;
 }
